@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ahsanul</h1>
-<h3 align="center">A CS Graduate with experience in fullstack web development with Spring Boot and Java.</h3>
+<h3 align="center">A CS Graduate with experience in fullstack web development with .NET Core and Angular</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahaque98&label=Profile%20views&color=0e75b6&style=flat" alt="ahaque98" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahaque98" alt="ahaque98" /></a> </p>
 
-- 🔭 I’m currently working on **an fullstack web application using Spring Boot and React.js**
+- 🔭 I’m currently working on **a fullstack web application using .NET web api and Angular**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **.NET Core**
 
-- 👯 I’m looking to collaborate on **Spring Boot projects**
-
-- 🤝 I’m looking collaboration on **Spring Boot/Spring Boot MVC projects**
+- 👯 I’m looking to collaborate on **.NET Core projects**
 
 - 📝 I regularly write articles on [https://dev.to/ahaque98](https://dev.to/ahaque98)
 
-- 💬 Ask me about **Spring/Java**
+- 💬 Ask me about **.NET/C#**
 
 - 📫 How to reach me **ahsanulhaque1998@outlook.com**
 
