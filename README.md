@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahaque98" alt="ahaque98" /></a> </p>
 
-- 🔭 I’m currently working on **a fullstack web application using .NET web api and Angular**
+- 🔭 I’m currently working on **a fullstack web application using Ruby on Rails**
 
-- 🌱 I’m currently learning **.NET Core**
+- 🌱 I’m currently learning **Ruby on Rails**
 
-- 👯 I’m looking to collaborate on **.NET Core projects**
+- 👯 I’m looking to collaborate on **.Ruby on Rails projects**
 
 - 📝 I regularly write articles on [https://dev.to/ahaque98](https://dev.to/ahaque98)
 
-- 💬 Ask me about **.NET/C#**
+- 💬 Ask me about **Ruby on Rails**
 
 - 📫 How to reach me **ahsanulhaque1998@outlook.com**
 
