@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahaque98" alt="ahaque98" /></a> </p>
 
-- 🔭 I’m currently working on **a fullstack web application using Ruby on Rails**
+- 🔭 I’m currently working on **a fullstack web application using .NET Core MVC**
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **.NET Core**
 
-- 👯 I’m looking to collaborate on **.Ruby on Rails projects**
+- 👯 I’m looking to collaborate on **.NET Core**
 
 - 📝 I regularly write articles on [https://dev.to/ahaque98](https://dev.to/ahaque98)
 
-- 💬 Ask me about **Ruby on Rails**
+- 💬 Ask me about **C#/.NET Core**
 
-- 📫 How to reach me **ahsanulhaque1998@outlook.com**
+- 📫 How to reach me **vikingslord98@gmail.com**
 
 - ⚡ Fun fact **Many times i get mad at myself when my code breaks because of a semicolon...**
 
