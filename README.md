@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **C#/.NET Core**
 
-- 📫 How to reach me **vikingslord98@gmail.com**
+- 📫 How to reach me **dev.ahsan98@gmail.com**
 
 - ⚡ Fun fact **Many times i get mad at myself when my code breaks because of a semicolon...**
 
