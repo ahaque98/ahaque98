@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **a fullstack web application using .NET Core MVC**
 
-- 🌱 I’m currently learning **.NET Core**
+- 🌱 I’m currently learning **Ml .NET**
 
 - 👯 I’m looking to collaborate on **.NET Core**
 
 - 📝 I regularly write articles on [https://dev.to/ahaque98](https://dev.to/ahaque98)
 
-- 💬 Ask me about **C#/.NET Core**
+- 💬 Ask me about **C#/.NET Core/ ML.NET**
 
 - 📫 How to reach me **dev.ahsan98@gmail.com**
 
