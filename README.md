@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahsanul</h1>
-<h3 align="center">A CS Graduate with experience in fullstack web development with .NET Core and Angular</h3>
+<h3 align="center">A CS Graduate with experience in fullstack web development with .NET Core </h3>
 
 - 🔭 I’m currently working on **a fullstack web application using .NET Core MVC**
 
